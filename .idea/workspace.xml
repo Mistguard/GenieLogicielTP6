@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="467ef9fb-f747-4e09-820f-0590df4c4551" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyX.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aI2NQFB2i7nCIQaLXc9xZSOydC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="467ef9fb-f747-4e09-820f-0590df4c4551" name="Default Changelist" comment="" />
+      <created>1586408746895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586408746895</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Première construction suivant le diagramme UML">
+      <created>1586409322057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586409322057</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Complément du projet en suivant le diagramme d'états-transitions">
+      <created>1586409898619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586409898619</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Création de la classe X et branchement">
+      <created>1586410279719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586410279719</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Début de la création de la classe MyX et ajout du constructeur d'Automate">
+      <created>1586410956472</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586410956472</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Première construction suivant le diagramme UML" />
+    <MESSAGE value="Complément du projet en suivant le diagramme d'états-transitions" />
+    <MESSAGE value="Création de la classe X et branchement" />
+    <MESSAGE value="Début de la création de la classe MyX et ajout du constructeur d'Automate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Début de la création de la classe MyX et ajout du constructeur d'Automate" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1586410673755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1586410673755" />
+    <state x="550" y="15" key="CommitChangelistDialog2" timestamp="1586410953836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="15" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1586410953836" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1586410957949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1586410957949" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586410200726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1586410200726" />
+  </component>
+</project>
