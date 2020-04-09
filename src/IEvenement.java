@@ -1,6 +1,10 @@
 public interface IEvenement {
 
-    public void evenement1();
+    public void demarrer();
 
-    public void evenement2();
+    public void arreter();
+
+    public void suspendre();
+
+    public void reprendre();
 }

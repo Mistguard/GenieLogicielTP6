@@ -1,7 +1,7 @@
 
 public class Automate implements IEvenement {
 
-    private X controlee;
+    private Chrono2 controlee;
 
     private IEtat etatCourant;
 
@@ -9,23 +9,32 @@ public class Automate implements IEvenement {
         etatCourant = etat;
     }
 
-    public X getControlee(){
+    public Chrono2 getControlee(){
         return controlee;
     }
 
     @Override
-    public void evenement1() {
-        etatCourant.evenement1(this);
+    public void demarrer() {
+        etatCourant.demarrer(this);
     }
 
     @Override
-    public void evenement2() {
-        etatCourant.evenement2(this);
+    public void arreter() {
+        etatCourant.arreter(this);
     }
 
-    public Automate(X x){
-        x.setControlleur(this);
-        controlee = x;
+    @Override
+    public void suspendre() {
+        etatCourant.suspendre(this);
+    }
+
+    @Override
+    public void reprendre() {
+        etatCourant.reprendre(this);
+    }
+
+    public Automate(Chrono2 chrono2){
+        controlee = chrono2;
         etatCourant = new Etat1();
     }
 }

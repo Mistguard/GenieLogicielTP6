@@ -1,6 +1,10 @@
 public interface IEtat {
 
-    public void evenement1(Automate a);
+    public void demarrer(Automate a);
 
-    public void evenement2(Automate a);
+    public void arreter(Automate a);
+
+    public void suspendre(Automate a);
+
+    public void reprendre(Automate a);
 }

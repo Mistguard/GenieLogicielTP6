@@ -1,8 +1,9 @@
-public class Etat2 implements IEtat {
+import javax.sound.midi.Soundbank;
+
+public class Etat3 implements IEtat {
     @Override
     public void demarrer(Automate a) {
-        Chrono2 chrono2 = a.getControlee();
-        chrono2.lancerChrono();
+
     }
 
     @Override
@@ -15,14 +16,14 @@ public class Etat2 implements IEtat {
 
     @Override
     public void suspendre(Automate a) {
-        System.out.println("Je me suspends.");
-        Chrono2 chrono2 = a.getControlee();
-        chrono2.suspendreChrono();
-        a.changementEtat(new Etat3());
+
     }
 
     @Override
     public void reprendre(Automate a) {
-
+        System.out.println("Je reprends.");
+        Chrono2 chrono2 = a.getControlee();
+        chrono2.reprendreChrono();
+        a.changementEtat(new Etat2());
     }
 }
